@@ -1,0 +1,12 @@
+
+(A) For lambda expression the .class is generate with naming convention outer-class-name$inner-class-name
+True
+
+(B) A static method reference passes the current object into method whereas an arbitrary method reference invokes a method onto the current object.
+False
+
+(C) BinaryOperator is a sub interface of BiFunction similarly ) UnaryOperator is a sub interface of Function functional interface.
+False
+
+(D) A stream pipeline consists of a source, zero or more intermediate operations, and a terminal operation.
+True
